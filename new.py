@@ -15,3 +15,5 @@ for data_dir in data_dirs:
         os.system(f"dvc add {filePath}")
 
 print("\n #### all files added to dvc ####")
+
+print('enter line added')
